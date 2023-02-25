@@ -1,0 +1,15 @@
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\bin\Debug\arduino_project_v2.0.exe.config
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\bin\Debug\arduino_project_v2.0.exe
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\bin\Debug\arduino_project_v2.0.pdb
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\bin\Debug\CircularProgressBar.dll
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\bin\Debug\WinFormAnimation.dll
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\bin\Debug\CircularProgressBar.xml
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2.0.csproj.AssemblyReference.cache
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2.0.csproj.SuggestedBindingRedirects.cache
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2._0.Form1.resources
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2._0.Properties.Resources.resources
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2.0.csproj.GenerateResource.cache
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2.0.csproj.CoreCompileInputs.cache
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2.0.csproj.CopyComplete
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2.0.exe
+D:\studio_project\arduino_project_v2.0\arduino_project_v2.0\obj\Debug\arduino_project_v2.0.pdb
